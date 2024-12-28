@@ -1,0 +1,6 @@
+html2image
+requests
+colorama
+configparser
+dnspython
+tld
